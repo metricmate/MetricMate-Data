@@ -8,13 +8,22 @@
                     "name":"Leg Curl",
                     "sets":[
                         {
-                            "position":1
+                            "position":1,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         },
                         {
-                            "position":2
+                            "position":2,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         },
                         {
-                            "position":3
+                            "position":3,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         }
                     ]
                 },
@@ -22,13 +31,22 @@
                     "name":"Leg Extension",
                     "sets":[
                         {
-                            "position":1
+                            "position":1,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         },
                         {
-                            "position":2
+                            "position":2,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         },
                         {
-                            "position":3
+                            "position":3,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         }
                     ]
                 },
@@ -36,13 +54,22 @@
                     "name":"Pull-Ups",
                     "sets":[
                         {
-                            "position":1
+                            "position":1,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         },
                         {
-                            "position":2
+                            "position":2,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         },
                         {
-                            "position":3
+                            "position":3,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         }
                     ]
                 },
@@ -50,13 +77,22 @@
                     "name":"Dips",
                     "sets":[
                         {
-                            "position":1
+                            "position":1,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         },
                         {
-                            "position":2
+                            "position":2,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         },
                         {
-                            "position":3
+                            "position":3,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         }
                     ]
                 }
@@ -70,13 +106,22 @@
                     "name":"Pull-Ups",
                     "sets":[
                         {
-                            "position":1
+                            "position":1,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         },
                         {
-                            "position":2
+                            "position":2,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         },
                         {
-                            "position":3
+                            "position":3,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         }
                     ]
                 },
@@ -84,13 +129,22 @@
                     "name":"Dips",
                     "sets":[
                         {
-                            "position":1
+                            "position":1,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         },
                         {
-                            "position":2
+                            "position":2,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         },
                         {
-                            "position":3
+                            "position":3,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         }
                     ]
                 }
@@ -104,13 +158,22 @@
                     "name":"Leg Curl",
                     "sets":[
                         {
-                            "position":1
+                            "position":1,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         },
                         {
-                            "position":2
+                            "position":2,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         },
                         {
-                            "position":3
+                            "position":3,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         }
                     ]
                 },
@@ -118,13 +181,22 @@
                     "name":"Leg Extension",
                     "sets":[
                         {
-                            "position":1
+                            "position":1,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         },
                         {
-                            "position":2
+                            "position":2,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         },
                         {
-                            "position":3
+                            "position":3,
+                            "targetReps":10,
+                            "targetWeight":100,
+                            "targetTime":1000
                         }
                     ]
                 }
