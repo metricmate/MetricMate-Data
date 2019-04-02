@@ -1,20 +1,134 @@
-{  
-   "workouts":[  
-      {  
-         "id":1,
-         "name":"Power Assessment"
-      },
-      {  
-         "id":2,
-         "name":"Chest & Shoulders"
-      },
-      {  
-         "id":3,
-         "name":"Back & Biceps"
-      },
-      {  
-         "id":4,
-         "name":"Legs & Core"
-      }
-   ]
+{
+    "workouts":[
+        {
+            "id":1,
+            "name":"Full Body",
+            "exercises":[
+                {
+                    "name":"Leg Curl",
+                    "sets":[
+                        {
+                            "position":1
+                        },
+                        {
+                            "position":2
+                        },
+                        {
+                            "position":3
+                        }
+                    ]
+                },
+                {
+                    "name":"Leg Extension",
+                    "sets":[
+                        {
+                            "position":1
+                        },
+                        {
+                            "position":2
+                        },
+                        {
+                            "position":3
+                        }
+                    ]
+                },
+                {
+                    "name":"Pull-Ups",
+                    "sets":[
+                        {
+                            "position":1
+                        },
+                        {
+                            "position":2
+                        },
+                        {
+                            "position":3
+                        }
+                    ]
+                },
+                {
+                    "name":"Dips",
+                    "sets":[
+                        {
+                            "position":1
+                        },
+                        {
+                            "position":2
+                        },
+                        {
+                            "position":3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name":"Upper Body",
+            "exercises":[
+                {
+                    "name":"Pull-Ups",
+                    "sets":[
+                        {
+                            "position":1
+                        },
+                        {
+                            "position":2
+                        },
+                        {
+                            "position":3
+                        }
+                    ]
+                },
+                {
+                    "name":"Dips",
+                    "sets":[
+                        {
+                            "position":1
+                        },
+                        {
+                            "position":2
+                        },
+                        {
+                            "position":3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name":"Lower Body",
+            "exercises":[
+                {
+                    "name":"Leg Curl",
+                    "sets":[
+                        {
+                            "position":1
+                        },
+                        {
+                            "position":2
+                        },
+                        {
+                            "position":3
+                        }
+                    ]
+                },
+                {
+                    "name":"Leg Extension",
+                    "sets":[
+                        {
+                            "position":1
+                        },
+                        {
+                            "position":2
+                        },
+                        {
+                            "position":3
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
