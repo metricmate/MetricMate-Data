@@ -4,7 +4,7 @@
          "name":"Standard Program",
          "workouts":[  
             {  
-               "id":1,
+               "position":1,
                "name":"Full Body",
                "exercises":[  
                   {  
@@ -12,21 +12,21 @@
                      "sets":[  
                         {  
                            "position":1,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":15,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         },
                         {  
                            "position":2,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":12,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         },
                         {  
                            "position":3,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":10,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         }
                      ]
                   },
@@ -35,21 +35,21 @@
                      "sets":[  
                         {  
                            "position":1,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":15,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         },
                         {  
                            "position":2,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":12,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         },
                         {  
                            "position":3,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":10,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         }
                      ]
                   },
@@ -58,21 +58,21 @@
                      "sets":[  
                         {  
                            "position":1,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":15,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         },
                         {  
                            "position":2,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":12,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         },
                         {  
                            "position":3,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":10,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         }
                      ]
                   },
@@ -81,28 +81,28 @@
                      "sets":[  
                         {  
                            "position":1,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":15,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         },
                         {  
                            "position":2,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":12,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         },
                         {  
                            "position":3,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":10,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         }
                      ]
                   }
                ]
             },
             {  
-               "id":2,
+               "position":2,
                "name":"Upper Body",
                "exercises":[  
                   {  
@@ -110,21 +110,21 @@
                      "sets":[  
                         {  
                            "position":1,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":15,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         },
                         {  
                            "position":2,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":12,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         },
                         {  
                            "position":3,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":10,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         }
                      ]
                   },
@@ -133,28 +133,28 @@
                      "sets":[  
                         {  
                            "position":1,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":15,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         },
                         {  
                            "position":2,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":12,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         },
                         {  
                            "position":3,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":10,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         }
                      ]
                   }
                ]
             },
             {  
-               "id":3,
+               "position":3,
                "name":"Lower Body",
                "exercises":[  
                   {  
@@ -162,21 +162,21 @@
                      "sets":[  
                         {  
                            "position":1,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":15,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         },
                         {  
                            "position":2,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":12,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         },
                         {  
                            "position":3,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":10,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         }
                      ]
                   },
@@ -185,21 +185,21 @@
                      "sets":[  
                         {  
                            "position":1,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":15,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         },
                         {  
                            "position":2,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":12,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         },
                         {  
                            "position":3,
-                           "targetReps":10,
-                           "targetWeight":100,
-                           "targetTime":1000
+                           "repsExpected":10,
+                           "weightExpected":100,
+                           "timeExpected":1000
                         }
                      ]
                   }
