@@ -1,211 +1,228 @@
-{  
-   "programs":[  
-      {  
-         "name":"Standard Program",
-         "workouts":[  
-            {  
-               "position":1,
-               "name":"Full Body",
-               "exercises":[  
-                  {  
-                     "name":"Leg Curl",
-                     "sets":[  
-                        {  
-                           "position":1,
-                           "repsExpected":15,
-                           "weightExpected":100,
-                           "timeExpected":1000
+{
+    "programs" :
+    [
+        {
+            "name" : "Standard Program",
+            "workouts" :
+            [
+                {
+                    "programName" : "Standard Program",
+                    "position" : 1,
+                    "name" : "Full Body",
+                    "exercises" :
+                    [
+                        {
+                            "name" : "Leg Curl",
+                            "sets" :
+                            [
+                                {
+                                    "exerciseName" : "Leg Curl",
+                                    "position" : 1,
+                                    "repsExpected" : 15,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Leg Curl",
+                                    "position" : 2,
+                                    "repsExpected" : 12,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Leg Curl",
+                                    "position" : 3,
+                                    "repsExpected" : 10,
+                                    "weightExpected" : 100
+                                }
+                            ]
                         },
-                        {  
-                           "position":2,
-                           "repsExpected":12,
-                           "weightExpected":100,
-                           "timeExpected":1000
+                        {
+                            "name" : "Leg Extension",
+                            "sets" :
+                            [
+                                {
+                                    "exerciseName" : "Leg Extension",
+                                    "position" : 1,
+                                    "repsExpected" : 15,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Leg Extension",
+                                    "position" : 2,
+                                    "repsExpected" : 12,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Leg Extension",
+                                    "position" : 3,
+                                    "repsExpected" : 10,
+                                    "weightExpected" : 100
+                                }
+                            ]
                         },
-                        {  
-                           "position":3,
-                           "repsExpected":10,
-                           "weightExpected":100,
-                           "timeExpected":1000
+                        {
+                            "name" : "Pull-Ups",
+                            "sets" :
+                            [
+                                {
+                                    "exerciseName" : "Pull-Ups",
+                                    "position" : 1,
+                                    "repsExpected" : 15,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Pull-Ups",
+                                    "position" : 2,
+                                    "repsExpected" : 12,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Pull-Ups",
+                                    "position" : 3,
+                                    "repsExpected" : 10,
+                                    "weightExpected" : 100
+                                }
+                            ]
+                        },
+                        {
+                            "name" : "Dips",
+                            "sets" :
+                            [
+                                {
+                                    "exerciseName" : "Dips",
+                                    "position" : 1,
+                                    "repsExpected" : 15,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Dips",
+                                    "position" : 2,
+                                    "repsExpected" : 12,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Dips",
+                                    "position" : 3,
+                                    "repsExpected" : 10,
+                                    "weightExpected" : 100
+                                }
+                            ]
                         }
-                     ]
-                  },
-                  {  
-                     "name":"Leg Extension",
-                     "sets":[  
-                        {  
-                           "position":1,
-                           "repsExpected":15,
-                           "weightExpected":100,
-                           "timeExpected":1000
+                    ]
+                },
+                {
+                    "programName" : "Standard Program",
+                    "position" : 2,
+                    "name" : "Upper Body",
+                    "exercises" :
+                    [
+                        {
+                            "name" : "Pull-Ups",
+                            "sets" :
+                            [
+                                {
+                                    "exerciseName" : "Pull-Ups",
+                                    "position" : 1,
+                                    "repsExpected" : 15,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Pull-Ups",
+                                    "position" : 2,
+                                    "repsExpected" : 12,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Pull-Ups",
+                                    "position" : 3,
+                                    "repsExpected" : 10,
+                                    "weightExpected" : 100
+                                }
+                            ]
                         },
-                        {  
-                           "position":2,
-                           "repsExpected":12,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        },
-                        {  
-                           "position":3,
-                           "repsExpected":10,
-                           "weightExpected":100,
-                           "timeExpected":1000
+                        {
+                            "name" : "Dips",
+                            "sets" :
+                            [
+                                {
+                                    "exerciseName" : "Dips",
+                                    "position" : 1,
+                                    "repsExpected" : 15,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Dips",
+                                    "position" : 2,
+                                    "repsExpected" : 12,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Dips",
+                                    "position" : 3,
+                                    "repsExpected" : 10,
+                                    "weightExpected" : 100
+                                }
+                            ]
                         }
-                     ]
-                  },
-                  {  
-                     "name":"Pull-Ups",
-                     "sets":[  
-                        {  
-                           "position":1,
-                           "repsExpected":15,
-                           "weightExpected":100,
-                           "timeExpected":1000
+                    ]
+                },
+                {
+                    "programName" : "Standard Program",
+                    "position" : 3,
+                    "name" : "Lower Body",
+                    "exercises" :
+                    [
+                        {
+                            "workoutName" : "Lower Body",
+                            "name" : "Leg Curl",
+                            "sets" :
+                            [
+                                {
+                                    "exerciseName" : "Leg Curl",
+                                    "position" : 1,
+                                    "repsExpected" : 15,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Leg Curl",
+                                    "position" : 2,
+                                    "repsExpected" : 12,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Leg Curl",
+                                    "position" : 3,
+                                    "repsExpected" : 10,
+                                    "weightExpected" : 100
+                                }
+                            ]
                         },
-                        {  
-                           "position":2,
-                           "repsExpected":12,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        },
-                        {  
-                           "position":3,
-                           "repsExpected":10,
-                           "weightExpected":100,
-                           "timeExpected":1000
+                        {
+                            "name" : "Leg Extension",
+                            "sets" :
+                            [
+                                {
+                                    "exerciseName" : "Leg Extension",
+                                    "position" : 1,
+                                    "repsExpected" : 15,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Leg Extension",
+                                    "position" : 2,
+                                    "repsExpected" : 12,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Leg Extension",
+                                    "position" : 3,
+                                    "repsExpected" : 10,
+                                    "weightExpected" : 100
+                                }
+                            ]
                         }
-                     ]
-                  },
-                  {  
-                     "name":"Dips",
-                     "sets":[  
-                        {  
-                           "position":1,
-                           "repsExpected":15,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        },
-                        {  
-                           "position":2,
-                           "repsExpected":12,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        },
-                        {  
-                           "position":3,
-                           "repsExpected":10,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        }
-                     ]
-                  }
-               ]
-            },
-            {  
-               "position":2,
-               "name":"Upper Body",
-               "exercises":[  
-                  {  
-                     "name":"Pull-Ups",
-                     "sets":[  
-                        {  
-                           "position":1,
-                           "repsExpected":15,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        },
-                        {  
-                           "position":2,
-                           "repsExpected":12,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        },
-                        {  
-                           "position":3,
-                           "repsExpected":10,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        }
-                     ]
-                  },
-                  {  
-                     "name":"Dips",
-                     "sets":[  
-                        {  
-                           "position":1,
-                           "repsExpected":15,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        },
-                        {  
-                           "position":2,
-                           "repsExpected":12,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        },
-                        {  
-                           "position":3,
-                           "repsExpected":10,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        }
-                     ]
-                  }
-               ]
-            },
-            {  
-               "position":3,
-               "name":"Lower Body",
-               "exercises":[  
-                  {  
-                     "name":"Leg Curl",
-                     "sets":[  
-                        {  
-                           "position":1,
-                           "repsExpected":15,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        },
-                        {  
-                           "position":2,
-                           "repsExpected":12,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        },
-                        {  
-                           "position":3,
-                           "repsExpected":10,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        }
-                     ]
-                  },
-                  {  
-                     "name":"Leg Extension",
-                     "sets":[  
-                        {  
-                           "position":1,
-                           "repsExpected":15,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        },
-                        {  
-                           "position":2,
-                           "repsExpected":12,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        },
-                        {  
-                           "position":3,
-                           "repsExpected":10,
-                           "weightExpected":100,
-                           "timeExpected":1000
-                        }
-                     ]
-                  }
-               ]
-            }
-         ]
-      }
-   ]
+                    ]
+                }
+            ]
+        }
+    ]
 }
