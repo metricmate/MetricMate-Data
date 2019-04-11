@@ -8,6 +8,86 @@
                 {
                     "programName" : "Standard Program",
                     "position" : 1,
+                    "name" : "Demonstration",
+                    "exercises" :
+                    [
+                        {
+                            "name" : "Bicep Curl",
+                            "sets" :
+                            [
+                                {
+                                    "exerciseName" : "Bicep Curl",
+                                    "position" : 1,
+                                    "repsExpected" : 15,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Bicep Curl",
+                                    "position" : 2,
+                                    "repsExpected" : 12,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Bicep Curl",
+                                    "position" : 3,
+                                    "repsExpected" : 10,
+                                    "weightExpected" : 100
+                                }
+                            ]
+                        },
+                        {
+                            "name" : "Leg Extension",
+                            "sets" :
+                            [
+                                {
+                                    "exerciseName" : "Leg Extension",
+                                    "position" : 1,
+                                    "repsExpected" : 15,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Leg Extension",
+                                    "position" : 2,
+                                    "repsExpected" : 12,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Leg Extension",
+                                    "position" : 3,
+                                    "repsExpected" : 10,
+                                    "weightExpected" : 100
+                                }
+                            ]
+                        },
+                        {
+                            "name" : "Chest Press",
+                            "sets" :
+                            [
+                                {
+                                    "exerciseName" : "Chest Press",
+                                    "position" : 1,
+                                    "repsExpected" : 15,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Chest Press",
+                                    "position" : 2,
+                                    "repsExpected" : 12,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "exerciseName" : "Chest Press",
+                                    "position" : 3,
+                                    "repsExpected" : 10,
+                                    "weightExpected" : 100
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "programName" : "Standard Program",
+                    "position" : 2,
                     "name" : "Full Body",
                     "exercises" :
                     [
@@ -111,7 +191,7 @@
                 },
                 {
                     "programName" : "Standard Program",
-                    "position" : 2,
+                    "position" : 3,
                     "name" : "Upper Body",
                     "exercises" :
                     [
@@ -167,7 +247,7 @@
                 },
                 {
                     "programName" : "Standard Program",
-                    "position" : 3,
+                    "position" : 4,
                     "name" : "Lower Body",
                     "exercises" :
                     [
