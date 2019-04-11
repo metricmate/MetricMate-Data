@@ -6,7 +6,6 @@
             "workouts" :
             [
                 {
-                    "programName" : "Standard Program",
                     "position" : 1,
                     "name" : "Demonstration",
                     "exercises" :
@@ -16,19 +15,16 @@
                             "sets" :
                             [
                                 {
-                                    "exerciseName" : "Bicep Curl",
                                     "position" : 1,
                                     "repsExpected" : 15,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Bicep Curl",
                                     "position" : 2,
                                     "repsExpected" : 12,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Bicep Curl",
                                     "position" : 3,
                                     "repsExpected" : 10,
                                     "weightExpected" : 100
@@ -40,19 +36,16 @@
                             "sets" :
                             [
                                 {
-                                    "exerciseName" : "Leg Extension",
                                     "position" : 1,
                                     "repsExpected" : 15,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Leg Extension",
                                     "position" : 2,
                                     "repsExpected" : 12,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Leg Extension",
                                     "position" : 3,
                                     "repsExpected" : 10,
                                     "weightExpected" : 100
@@ -64,19 +57,16 @@
                             "sets" :
                             [
                                 {
-                                    "exerciseName" : "Chest Press",
                                     "position" : 1,
                                     "repsExpected" : 15,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Chest Press",
                                     "position" : 2,
                                     "repsExpected" : 12,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Chest Press",
                                     "position" : 3,
                                     "repsExpected" : 10,
                                     "weightExpected" : 100
@@ -96,19 +86,16 @@
                             "sets" :
                             [
                                 {
-                                    "exerciseName" : "Leg Curl",
                                     "position" : 1,
                                     "repsExpected" : 15,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Leg Curl",
                                     "position" : 2,
                                     "repsExpected" : 12,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Leg Curl",
                                     "position" : 3,
                                     "repsExpected" : 10,
                                     "weightExpected" : 100
@@ -120,19 +107,16 @@
                             "sets" :
                             [
                                 {
-                                    "exerciseName" : "Leg Extension",
                                     "position" : 1,
                                     "repsExpected" : 15,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Leg Extension",
                                     "position" : 2,
                                     "repsExpected" : 12,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Leg Extension",
                                     "position" : 3,
                                     "repsExpected" : 10,
                                     "weightExpected" : 100
@@ -144,19 +128,16 @@
                             "sets" :
                             [
                                 {
-                                    "exerciseName" : "Pull-Ups",
                                     "position" : 1,
                                     "repsExpected" : 15,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Pull-Ups",
                                     "position" : 2,
                                     "repsExpected" : 12,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Pull-Ups",
                                     "position" : 3,
                                     "repsExpected" : 10,
                                     "weightExpected" : 100
@@ -168,19 +149,16 @@
                             "sets" :
                             [
                                 {
-                                    "exerciseName" : "Dips",
                                     "position" : 1,
                                     "repsExpected" : 15,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Dips",
                                     "position" : 2,
                                     "repsExpected" : 12,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Dips",
                                     "position" : 3,
                                     "repsExpected" : 10,
                                     "weightExpected" : 100
@@ -190,7 +168,6 @@
                     ]
                 },
                 {
-                    "programName" : "Standard Program",
                     "position" : 3,
                     "name" : "Upper Body",
                     "exercises" :
@@ -200,19 +177,16 @@
                             "sets" :
                             [
                                 {
-                                    "exerciseName" : "Pull-Ups",
                                     "position" : 1,
                                     "repsExpected" : 15,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Pull-Ups",
                                     "position" : 2,
                                     "repsExpected" : 12,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Pull-Ups",
                                     "position" : 3,
                                     "repsExpected" : 10,
                                     "weightExpected" : 100
@@ -224,19 +198,16 @@
                             "sets" :
                             [
                                 {
-                                    "exerciseName" : "Dips",
                                     "position" : 1,
                                     "repsExpected" : 15,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Dips",
                                     "position" : 2,
                                     "repsExpected" : 12,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Dips",
                                     "position" : 3,
                                     "repsExpected" : 10,
                                     "weightExpected" : 100
@@ -246,30 +217,25 @@
                     ]
                 },
                 {
-                    "programName" : "Standard Program",
                     "position" : 4,
                     "name" : "Lower Body",
                     "exercises" :
                     [
                         {
-                            "workoutName" : "Lower Body",
                             "name" : "Leg Curl",
                             "sets" :
                             [
                                 {
-                                    "exerciseName" : "Leg Curl",
                                     "position" : 1,
                                     "repsExpected" : 15,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Leg Curl",
                                     "position" : 2,
                                     "repsExpected" : 12,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Leg Curl",
                                     "position" : 3,
                                     "repsExpected" : 10,
                                     "weightExpected" : 100
@@ -281,19 +247,16 @@
                             "sets" :
                             [
                                 {
-                                    "exerciseName" : "Leg Extension",
                                     "position" : 1,
                                     "repsExpected" : 15,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Leg Extension",
                                     "position" : 2,
                                     "repsExpected" : 12,
                                     "weightExpected" : 100
                                 },
                                 {
-                                    "exerciseName" : "Leg Extension",
                                     "position" : 3,
                                     "repsExpected" : 10,
                                     "weightExpected" : 100
