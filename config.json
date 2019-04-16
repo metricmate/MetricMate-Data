@@ -49,6 +49,11 @@
                                     "position" : 3,
                                     "repsExpected" : 10,
                                     "weightExpected" : 100
+                                },
+                                {
+                                    "position" : 4,
+                                    "repsExpected" : 8,
+                                    "weightExpected" : 100
                                 }
                             ]
                         },
@@ -69,6 +74,16 @@
                                 {
                                     "position" : 3,
                                     "repsExpected" : 10,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "position" : 4,
+                                    "repsExpected" : 8,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "position" : 5,
+                                    "repsExpected" : 6,
                                     "weightExpected" : 100
                                 }
                             ]
