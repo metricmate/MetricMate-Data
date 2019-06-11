@@ -2,17 +2,23 @@
    "machines":[  
       {  
          "name":"Leg Extension",
+         "manufacturer":"Life Fitness",
          "measurements":[  
             {  
-
+               "min":101.6,
+               "max":127.0,
+               "display":210.0
             }
          ]
       },
       {  
          "name":"Chest Press",
+         "manufacturer":"Quantum Fitness",
          "measurements":[  
             {  
-
+               "min":101.6,
+               "max":160.0,
+               "display":210.0
             }
          ]
       }
