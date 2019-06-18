@@ -1,19 +1,84 @@
 {  
    "machines":[  
       {  
-         "name":"Leg Extension",
-         "manufacturer":"Life Fitness",
+         "name":"Butterfly Machine",
+         "manufacturer":"Quantum Fitness",
          "measurements":[  
             {  
-               "min":101.6,
-               "max":127.0,
-               "display":210.0
+               "min":104.775,
+               "max":130.175,
+               "display":150.0
             },
             {  
-               "min":127.0,
-               "max":152.4,
-               "display":200.0
-            }
+               "min":130.175,
+               "max":155.575,
+               "display":140.0
+            },
+            {  
+               "min":155.575,
+               "max":180.975,
+               "display":130.0
+            },
+            {  
+               "min":180.975,
+               "max":206.375,
+               "display":120.0
+            },
+            {  
+               "min":206.375,
+               "max":231.775,
+               "display":110.0
+            },
+            {  
+               "min":231.775,
+               "max":257.175,
+               "display":100.0
+            },
+            {  
+               "min":257.175,
+               "max":282.575,
+               "display":90.0
+            },
+            {  
+               "min":282.575,
+               "max":307.975,
+               "display":80.0
+            },
+            {  
+               "min":307.975,
+               "max":333.375,
+               "display":70.0
+            },
+            {  
+               "min":333.375,
+               "max":358.775,
+               "display":60.0
+            },
+            {  
+               "min":358.775,
+               "max":384.175,
+               "display":50.0
+            },
+            {  
+               "min":384.175,
+               "max":409.575,
+               "display":40.0
+            },
+            {  
+               "min":409.575,
+               "max":434.975,
+               "display":30.0
+            },
+            {  
+               "min":434.975,
+               "max":460.375,
+               "display":20.0
+            },
+            {  
+               "min":460.375,
+               "max":485.775,
+               "display":10.0
+            },
          ]
       },
       {  
