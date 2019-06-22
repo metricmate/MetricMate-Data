@@ -17,17 +17,17 @@
                                 {
                                     "position" : 1,
                                     "repsExpected" : 15,
-                                    "weightExpected" : 100
+                                    "weightExpected" : 20
                                 },
                                 {
                                     "position" : 2,
                                     "repsExpected" : 12,
-                                    "weightExpected" : 100
+                                    "weightExpected" : 20
                                 },
                                 {
                                     "position" : 3,
                                     "repsExpected" : 10,
-                                    "weightExpected" : 100
+                                    "weightExpected" : 20
                                 }
                             ]
                         },
@@ -38,22 +38,22 @@
                                 {
                                     "position" : 1,
                                     "repsExpected" : 15,
-                                    "weightExpected" : 100
+                                    "weightExpected" : 20
                                 },
                                 {
                                     "position" : 2,
                                     "repsExpected" : 12,
-                                    "weightExpected" : 100
+                                    "weightExpected" : 20
                                 },
                                 {
                                     "position" : 3,
                                     "repsExpected" : 10,
-                                    "weightExpected" : 100
+                                    "weightExpected" : 20
                                 },
                                 {
                                     "position" : 4,
                                     "repsExpected" : 8,
-                                    "weightExpected" : 100
+                                    "weightExpected" : 20
                                 }
                             ]
                         },
@@ -64,27 +64,27 @@
                                 {
                                     "position" : 1,
                                     "repsExpected" : 15,
-                                    "weightExpected" : 100
+                                    "weightExpected" : 20
                                 },
                                 {
                                     "position" : 2,
                                     "repsExpected" : 12,
-                                    "weightExpected" : 100
+                                    "weightExpected" : 20
                                 },
                                 {
                                     "position" : 3,
                                     "repsExpected" : 10,
-                                    "weightExpected" : 100
+                                    "weightExpected" : 20
                                 },
                                 {
                                     "position" : 4,
                                     "repsExpected" : 8,
-                                    "weightExpected" : 100
+                                    "weightExpected" : 20
                                 },
                                 {
                                     "position" : 5,
                                     "repsExpected" : 6,
-                                    "weightExpected" : 100
+                                    "weightExpected" : 20
                                 }
                             ]
                         }
