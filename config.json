@@ -93,74 +93,11 @@
                 {
                     "programName" : "Standard Program",
                     "position" : 2,
-                    "name" : "Full Body",
+                    "name" : "Leg Curl",
                     "exercises" :
                     [
                         {
                             "name" : "Leg Curl",
-                            "sets" :
-                            [
-                                {
-                                    "position" : 1,
-                                    "repsExpected" : 15,
-                                    "weightExpected" : 100
-                                },
-                                {
-                                    "position" : 2,
-                                    "repsExpected" : 12,
-                                    "weightExpected" : 100
-                                },
-                                {
-                                    "position" : 3,
-                                    "repsExpected" : 10,
-                                    "weightExpected" : 100
-                                }
-                            ]
-                        },
-                        {
-                            "name" : "Leg Extension",
-                            "sets" :
-                            [
-                                {
-                                    "position" : 1,
-                                    "repsExpected" : 15,
-                                    "weightExpected" : 100
-                                },
-                                {
-                                    "position" : 2,
-                                    "repsExpected" : 12,
-                                    "weightExpected" : 100
-                                },
-                                {
-                                    "position" : 3,
-                                    "repsExpected" : 10,
-                                    "weightExpected" : 100
-                                }
-                            ]
-                        },
-                        {
-                            "name" : "Pull-Ups",
-                            "sets" :
-                            [
-                                {
-                                    "position" : 1,
-                                    "repsExpected" : 15,
-                                    "weightExpected" : 100
-                                },
-                                {
-                                    "position" : 2,
-                                    "repsExpected" : 12,
-                                    "weightExpected" : 100
-                                },
-                                {
-                                    "position" : 3,
-                                    "repsExpected" : 10,
-                                    "weightExpected" : 100
-                                }
-                            ]
-                        },
-                        {
-                            "name" : "Dips",
                             "sets" :
                             [
                                 {
