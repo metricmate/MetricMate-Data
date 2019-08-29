@@ -93,11 +93,11 @@
                 {
                     "programName" : "Standard Program",
                     "position" : 2,
-                    "name" : "Leg Curl",
+                    "name" : "HX Leg Curl",
                     "exercises" :
                     [
                         {
-                            "name" : "Leg Curl",
+                            "name" : "HX Leg Curl",
                             "sets" :
                             [
                                 {
@@ -121,11 +121,11 @@
                 },
                 {
                     "position" : 3,
-                    "name" : "Hip Abduction",
+                    "name" : "HX Hip Abduction",
                     "exercises" :
                     [
                         {
-                            "name" : "Hip Abduction",
+                            "name" : "HX Hip Abduction",
                             "sets" :
                             [
                                 {
@@ -149,11 +149,11 @@
                 },
                 {
                     "position" : 4,
-                    "name" : "Abdominal",
+                    "name" : "HX Abdominal",
                     "exercises" :
                     [
                         {
-                            "name" : "Abdominal",
+                            "name" : "HX Abdominal",
                             "sets" :
                             [
                                 {
@@ -177,11 +177,11 @@
                 },
                 {
                     "position" : 5,
-                    "name" : "Reclined Leg Press",
+                    "name" : "HX Reclined Leg Press",
                     "exercises" :
                     [
                         {
-                            "name" : "Reclined Leg Press",
+                            "name" : "HX Reclined Leg Press",
                             "sets" :
                             [
                                 {
@@ -205,11 +205,11 @@
                 },
                 {
                     "position" : 6,
-                    "name" : "Leg Extension",
+                    "name" : "HX Leg Extension",
                     "exercises" :
                     [
                         {
-                            "name" : "Leg Extension",
+                            "name" : "HX Leg Extension",
                             "sets" :
                             [
                                 {
