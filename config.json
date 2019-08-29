@@ -102,12 +102,12 @@
                             [
                                 {
                                     "position" : 1,
-                                    "repsExpected" : 15,
+                                    "repsExpected" : 10,
                                     "weightExpected" : 100
                                 },
                                 {
                                     "position" : 2,
-                                    "repsExpected" : 12,
+                                    "repsExpected" : 10,
                                     "weightExpected" : 100
                                 },
                                 {
@@ -121,42 +121,21 @@
                 },
                 {
                     "position" : 3,
-                    "name" : "Upper Body",
+                    "name" : "Hip Abduction",
                     "exercises" :
                     [
                         {
-                            "name" : "Pull-Ups",
+                            "name" : "Hip Abduction",
                             "sets" :
                             [
                                 {
                                     "position" : 1,
-                                    "repsExpected" : 15,
-                                    "weightExpected" : 100
-                                },
-                                {
-                                    "position" : 2,
-                                    "repsExpected" : 12,
-                                    "weightExpected" : 100
-                                },
-                                {
-                                    "position" : 3,
                                     "repsExpected" : 10,
                                     "weightExpected" : 100
-                                }
-                            ]
-                        },
-                        {
-                            "name" : "Dips",
-                            "sets" :
-                            [
-                                {
-                                    "position" : 1,
-                                    "repsExpected" : 15,
-                                    "weightExpected" : 100
                                 },
                                 {
                                     "position" : 2,
-                                    "repsExpected" : 12,
+                                    "repsExpected" : 10,
                                     "weightExpected" : 100
                                 },
                                 {
@@ -170,21 +149,21 @@
                 },
                 {
                     "position" : 4,
-                    "name" : "Lower Body",
+                    "name" : "Abdominal",
                     "exercises" :
                     [
                         {
-                            "name" : "Leg Curl",
+                            "name" : "Abdominal",
                             "sets" :
                             [
                                 {
                                     "position" : 1,
-                                    "repsExpected" : 15,
+                                    "repsExpected" : 10,
                                     "weightExpected" : 100
                                 },
                                 {
                                     "position" : 2,
-                                    "repsExpected" : 12,
+                                    "repsExpected" : 10,
                                     "weightExpected" : 100
                                 },
                                 {
@@ -193,19 +172,54 @@
                                     "weightExpected" : 100
                                 }
                             ]
-                        },
+                        }
+                    ]
+                },
+                {
+                    "position" : 5,
+                    "name" : "Reclined Leg Press",
+                    "exercises" :
+                    [
+                        {
+                            "name" : "Reclined Leg Press",
+                            "sets" :
+                            [
+                                {
+                                    "position" : 1,
+                                    "repsExpected" : 10,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "position" : 2,
+                                    "repsExpected" : 10,
+                                    "weightExpected" : 100
+                                },
+                                {
+                                    "position" : 3,
+                                    "repsExpected" : 10,
+                                    "weightExpected" : 100
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "position" : 6,
+                    "name" : "Leg Extension"",
+                    "exercises" :
+                    [
                         {
                             "name" : "Leg Extension",
                             "sets" :
                             [
                                 {
                                     "position" : 1,
-                                    "repsExpected" : 15,
+                                    "repsExpected" : 10,
                                     "weightExpected" : 100
                                 },
                                 {
                                     "position" : 2,
-                                    "repsExpected" : 12,
+                                    "repsExpected" : 10,
                                     "weightExpected" : 100
                                 },
                                 {
