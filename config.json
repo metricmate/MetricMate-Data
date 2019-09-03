@@ -11,7 +11,7 @@
                     "exercises" :
                     [
                         {
-                            "name" : "Chest Press",
+                            "name" : "Demo 1",
                             "sets" :
                             [
                                 {
@@ -32,7 +32,7 @@
                             ]
                         },
                         {
-                            "name" : "Butterfly",
+                            "name" : "Demo 2",
                             "sets" :
                             [
                                 {
@@ -48,17 +48,12 @@
                                 {
                                     "position" : 3,
                                     "repsExpected" : 10,
-                                    "weightExpected" : 20
-                                },
-                                {
-                                    "position" : 4,
-                                    "repsExpected" : 8,
                                     "weightExpected" : 20
                                 }
                             ]
                         },
                         {
-                            "name" : "Chest Press",
+                            "name" : "Demo 3",
                             "sets" :
                             [
                                 {
@@ -75,15 +70,47 @@
                                     "position" : 3,
                                     "repsExpected" : 10,
                                     "weightExpected" : 20
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "name" : "Demo 4",
+                            "sets" :
+                            [
                                 {
-                                    "position" : 4,
-                                    "repsExpected" : 8,
+                                    "position" : 1,
+                                    "repsExpected" : 15,
                                     "weightExpected" : 20
                                 },
                                 {
-                                    "position" : 5,
-                                    "repsExpected" : 6,
+                                    "position" : 2,
+                                    "repsExpected" : 12,
+                                    "weightExpected" : 20
+                                },
+                                {
+                                    "position" : 3,
+                                    "repsExpected" : 10,
+                                    "weightExpected" : 20
+                                }
+                            ]
+                        },
+                        {
+                            "name" : "Demo 5",
+                            "sets" :
+                            [
+                                {
+                                    "position" : 1,
+                                    "repsExpected" : 15,
+                                    "weightExpected" : 20
+                                },
+                                {
+                                    "position" : 2,
+                                    "repsExpected" : 12,
+                                    "weightExpected" : 20
+                                },
+                                {
+                                    "position" : 3,
+                                    "repsExpected" : 10,
                                     "weightExpected" : 20
                                 }
                             ]
