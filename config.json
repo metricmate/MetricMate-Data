@@ -257,6 +257,90 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "position" : 7,
+                    "name" : "Demo 1 LA Fitness",
+                    "exercises" :
+                    [
+                        {
+                            "name" : "Demo 1",
+                            "sets" :
+                            [
+                                {
+                                    "position" : 1,
+                                    "repsExpected" : 5,
+                                    "weightExpected" : 20
+                                },
+                                {
+                                    "position" : 2,
+                                    "repsExpected" : 5,
+                                    "weightExpected" : 20
+                                },
+                                {
+                                    "position" : 3,
+                                    "repsExpected" : 5,
+                                    "weightExpected" : 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "position" : 8,
+                    "name" : "Demo 2 LA Fitness",
+                    "exercises" :
+                    [
+                        {
+                            "name" : "Demo 2",
+                            "sets" :
+                            [
+                                {
+                                    "position" : 1,
+                                    "repsExpected" : 8,
+                                    "weightExpected" : 20
+                                },
+                                {
+                                    "position" : 2,
+                                    "repsExpected" : 8,
+                                    "weightExpected" : 20
+                                },
+                                {
+                                    "position" : 3,
+                                    "repsExpected" : 8,
+                                    "weightExpected" : 20
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "position" : 9,
+                    "name" : "Demo 3 LA Fitness",
+                    "exercises" :
+                    [
+                        {
+                            "name" : "Demo 3",
+                            "sets" :
+                            [
+                                {
+                                    "position" : 1,
+                                    "repsExpected" : 12,
+                                    "weightExpected" : 20
+                                },
+                                {
+                                    "position" : 2,
+                                    "repsExpected" : 12,
+                                    "weightExpected" : 20
+                                },
+                                {
+                                    "position" : 3,
+                                    "repsExpected" : 12,
+                                    "weightExpected" : 20
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
