@@ -325,17 +325,17 @@
                             [
                                 {
                                     "position" : 1,
-                                    "repsExpected" : 12,
+                                    "repsExpected" : 100,
                                     "weightExpected" : 20
                                 },
                                 {
                                     "position" : 2,
-                                    "repsExpected" : 12,
+                                    "repsExpected" : 100,
                                     "weightExpected" : 20
                                 },
                                 {
                                     "position" : 3,
-                                    "repsExpected" : 12,
+                                    "repsExpected" : 100,
                                     "weightExpected" : 20
                                 }
                             ]
